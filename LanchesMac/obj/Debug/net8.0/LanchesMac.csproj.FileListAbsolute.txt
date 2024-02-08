@@ -28,3 +28,4 @@ C:\Users\DANILOARRABALDOCARMO\Desktop\Git\LanchesMac\LanchesMac\obj\Debug\net8.0
 C:\Users\DANILOARRABALDOCARMO\Desktop\Git\LanchesMac\LanchesMac\obj\Debug\net8.0\LanchesMac.pdb
 C:\Users\DANILOARRABALDOCARMO\Desktop\Git\LanchesMac\LanchesMac\obj\Debug\net8.0\LanchesMac.genruntimeconfig.cache
 C:\Users\DANILOARRABALDOCARMO\Desktop\Git\LanchesMac\LanchesMac\obj\Debug\net8.0\ref\LanchesMac.dll
+C:\Users\DANILOARRABALDOCARMO\Desktop\Git\LanchesMac\LanchesMac\obj\Debug\net8.0\LanchesMac.sourcelink.json
