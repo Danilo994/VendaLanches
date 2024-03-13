@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sYZjZsU2mfVaNIl6pT5hFxWxruciDw6mE4PDnxOkm1o=",
+  "Hash": "AUMZ8i7NP2qkkySFuyRy4ByL67Yq/TvBZoxFvcL+jdk=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -300,6 +300,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Home-iconred.png"
+    },
+    {
+      "Identity": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\login_48.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/login_48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login_48.png"
     },
     {
       "Identity": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\phone-app-icon.png",
