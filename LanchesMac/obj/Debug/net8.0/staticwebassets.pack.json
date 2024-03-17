@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },
     {
+      "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\registro1.jpg",
+      "PackagePath": "staticwebassets\\images\\registro1.jpg"
+    },
+    {
       "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\remove.ico",
       "PackagePath": "staticwebassets\\images\\remove.ico"
     },
