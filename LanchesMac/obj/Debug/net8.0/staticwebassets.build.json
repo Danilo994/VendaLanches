@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kc2xhAXK0vx6aXApogUPSWSLrp+DKovekJfNj+E/5k0=",
+  "Hash": "LU1rRlpZ0MAcljGpk04lGHntqeMyspUq5F5gcVqKK9s=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\adminarea.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/adminarea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adminarea.jpg"
     },
     {
       "Identity": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\carousel11.jpg",
