@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p3Gm1IumvmLFGR55VcbrPyPsOVEMugsBocpehzbeRhFUqN2IUidIxo7+KhJVg2vwqmVc3BEtT0PwlE3N6tzYDg==",
+  "dgSpecHash": "0oftQBOP+RIuSIg7T8cWjh5lmrowxo5U6DS/sFgTo6/hVMMp3i6eKlpDImR1ebNYxt70BfJ975d/bhXZ2XM5qQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
   "expectedPackageFiles": [
@@ -67,6 +67,8 @@
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.3\\microsoft.aspnetcore.cryptography.keyderivation.8.0.3.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.3.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.3\\microsoft.aspnetcore.metadata.8.0.3.nupkg.sha512",
+    "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.0.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",
@@ -138,6 +140,7 @@
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\nuget.projectmodel\\6.9.1\\nuget.projectmodel.6.9.1.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\nuget.protocol\\6.9.1\\nuget.protocol.6.9.1.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\nuget.versioning\\6.9.1\\nuget.versioning.6.9.1.nupkg.sha512",
+    "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\reflectionit.mvc.paging\\8.0.0\\reflectionit.mvc.paging.8.0.0.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\DANILOARRABALDOCARMO\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",
