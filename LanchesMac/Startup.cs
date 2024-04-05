@@ -28,6 +28,8 @@ namespace LanchesMac
                 .AddEntityFrameworkStores<AppDbContext>()
                 .AddDefaultTokenProviders();
 
+            services.Configure<ConfigurationImagem>(Configuration.GetSection("ConfigurationPastaImagens"));
+
             //services.Configure<IdentityOptions>(options =>
             //{
             //    // Default Password settings.
