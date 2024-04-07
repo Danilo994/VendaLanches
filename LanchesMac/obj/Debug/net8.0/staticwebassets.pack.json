@@ -65,12 +65,28 @@
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },
     {
+      "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\Foto_eu.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\Foto_eu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\images.jpg"
+    },
+    {
       "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\registro1.jpg",
       "PackagePath": "staticwebassets\\images\\registro1.jpg"
     },
     {
       "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\remove.ico",
       "PackagePath": "staticwebassets\\images\\remove.ico"
+    },
+    {
+      "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
     },
     {
       "Id": "C:\\Users\\DANILOARRABALDOCARMO\\Desktop\\Git\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
